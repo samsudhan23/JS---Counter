@@ -1,0 +1,49 @@
+.input{
+    padding-top: 15px;
+}
+
+.heading{
+    font-size: 50px;
+    font-weight: 800;
+    background-color: beige;
+    border-bottom: 1px solid gray;
+    font-family: cursive;
+}
+
+input {
+    width: 55px;
+    height: 30px;
+    font-family: cursive;
+}
+
+.body{
+    text-align: center;
+}
+
+.btn{
+    background-color:aqua;
+    padding: 5px;
+    width: 40px;
+    /* height: 40px; */
+    font-size: x-large;
+    border-radius: 6px;
+    border: 1px solid;
+    cursor: pointer;
+}
+
+#final{
+    font-weight: bold;
+    font-size: 50px;
+    font-family: cursive;
+}
+
+.btn1{
+    background-color:aqua;
+    /* padding: 6px; */
+    /* height: 40px; */
+    border-radius: 6px;
+    border: 1px solid;
+    font-family: cursive;
+    cursor: pointer;
+    font-size: x-large;
+}
